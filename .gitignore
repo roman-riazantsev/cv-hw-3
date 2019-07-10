@@ -1,0 +1,7 @@
+**/*.pyc
+**/__pycache__/*
+*.npz
+*.pyc
+.idea/*
+**/*.ipynb_checkpoints/
+**/*.avi
